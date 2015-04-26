@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GoombaBehaviour.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ControlMarios.cs" Line="37" Column="40" />
+      <File FileName="Assets/Scripts/FollowCam.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CoinBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GoombaBehaviour.cs" Line="28" Column="42" />
+      <File FileName="Assets/Scripts/SmallMarioBehaviour.cs" Line="83" Column="3" />
+      <File FileName="Assets/Scripts/SpawnGomba.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/BigMarioBehaviour.cs" Line="63" Column="21" />
+      <File FileName="Assets/Scripts/MushroomBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/QuestionBoxHit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
